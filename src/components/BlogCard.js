@@ -14,7 +14,7 @@ const BlogCard = () => {
             <h5 className='little'>A beautiful sunday morning renaissance</h5>
             <p className='desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque quaerat
           accusamus officia</p>
-            <Link to='/' className='button'>
+            <Link to='/blog/:id' className='button'>
               Read More
             </Link>
 
