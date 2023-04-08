@@ -16,7 +16,7 @@ Open [http://localhost:3000]
 "react-rating-stars-component": "^2.2.0",
 "react-router-dom": "^6.8.1"
 # Description 
-This React web app in Ecommerce app in react-router-dom, helmet, icons, react-image-zoom usese. This Web is is eccomerce react app demo created.
+ This React web app in Ecommerce app in react-router-dom, helmet, icons, react-image-zoom uses. This Web is is Ecommerce react app demo created.
 
 
 
